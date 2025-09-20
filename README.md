@@ -4,4 +4,4 @@
 
 -**Faculdade:** Fatec Ogari de Castro Pacheco (itapira)
 -**Curso:** Desenvolvimento de Software Multiplataforma (DSM)
--**Aluno:** [@Thiago270906] (https://github.com/Thiago270906)
+-**Aluno:** Thiago Lopes - Perfil do Github[@Thiago270906] (https://github.com/Thiago270906)
